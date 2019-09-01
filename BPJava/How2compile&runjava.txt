@@ -1,0 +1,3 @@
+javac <filepath and filename>
+cd <filepath; no filename>
+java <Class name>
